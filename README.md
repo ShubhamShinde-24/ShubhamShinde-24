@@ -1,4 +1,4 @@
-### Hi there! I'm Shubham
+### Hi there! I'm Shubham shinde
 - 👋 Hi, I’m @ShubhamShinde-24
 - 👀 I’m interested in Frontend and Backend
 - 🌱 I’m currently learning Node.js
