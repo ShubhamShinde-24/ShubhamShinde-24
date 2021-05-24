@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 [<img align= "left" alt="""https://www.linkedin.com/in/shubham-shinde-39aba417b" width="22px" src= />][linkedin] -->
 
 ### Connect with me:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/shubham-shinde-39aba417b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="shubam" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/shubhamshinde_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="shubhamshinde_24" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/shubham-shinde-39aba417b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="shubham shinde" height="30" width="40" /></a>
 </p>
