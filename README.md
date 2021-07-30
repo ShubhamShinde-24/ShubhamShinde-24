@@ -1,6 +1,6 @@
 ### Hi there!
 - 👋 Hi, I’m @ShubhamShinde-24
-- 👀 I’m interested in Frontend as well as Backend
+- 👀 I’m interested in Frontend as well as Backend Development
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me (shubhams2324@gmail.com)
 
