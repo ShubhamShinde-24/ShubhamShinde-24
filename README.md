@@ -1,7 +1,7 @@
 ### Hi there!
 - 👋 Hi, I’m @ShubhamShinde-24
 - 👀 I’m interested in Frontend as well as Backend Development
-- 🌱 I’m currently working on Node.js, HTML, CSS and Bootstrap.
+- 🌱 I’m currently working on Node.js, HTML, CSS, Bootstrap and Java script.
 - 📫 How to reach me (shubhams2324@gmail.com)
 
 <!---
